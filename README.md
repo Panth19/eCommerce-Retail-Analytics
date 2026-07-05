@@ -307,7 +307,6 @@ LIMIT 50;
 
 ### **Interactive Tableau Dashboard**
 
-[🔗 **OPEN LIVE DASHBOARD** →](https://public.tableau.com/app/profile/paritosh.sharma.ghimire/viz/retail_analysis_dash/DashboardLanding)
 
 ![Dashboard Preview](img/image.png)
 
@@ -543,12 +542,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 📧 Contact & Support
 
-**Project Author:** Paritosh Sharma Ghimire  
-**Email:** [Your Email]  
-**LinkedIn:** [Your LinkedIn Profile]  
-**GitHub:** [@Panth19](https://github.com/Panth19)
 
 ---
 
