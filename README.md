@@ -309,7 +309,7 @@ LIMIT 50;
 
 [🔗 **OPEN LIVE DASHBOARD** →](https://public.tableau.com/app/profile/paritosh.sharma.ghimire/viz/retail_analysis_dash/DashboardLanding)
 
-![Dashboard Preview](https://github.com/user-attachments/assets/09afe4c1-e2e5-4fc5-930c-af12e0bc116b)
+![Dashboard Preview](img/image.png)
 
 #### Dashboard Components
 - **KPI Metrics:** Total revenue, order count, customer count, cancellation rate
